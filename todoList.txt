@@ -1,0 +1,26 @@
+todoList.txt
+
+Revision History:
+6/15/2015 (JB): added intial List
+
+
+Here is a list of things we could possibly do with this program.
+Remove an item from the TODO list and into the to be reviewed section when an item is complete.
+The reviewer can then delete it form that list.
+TODO:
+1. add a win checker
+2. create an AI
+3. add a menu that allows for some options that are TBD
+4. add AI difficulty options
+5. add Human vs. AI.
+6. add over the internet multi player
+7. add the ability to change the board graphics (Colors, chip color, chip icon(possibly images))
+8. add ability to resize board.
+9. add game rules.
+10. create a test function allowing AI's to run agaist each other and still show on the GUI.
+11. create a text based UI for faster running of AI software.
+12. create a set of logging for AI and general bugs.
+
+To Be Reviewed:
+
+0. add reset button (DONE)

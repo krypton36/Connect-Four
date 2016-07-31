@@ -1,0 +1,10 @@
+AI Artificial Intelligence
+
+aiPlayer = getPlayer(); //Either player one or player two.
+aiChipColor = getChipAt(cfBoard,x,y); //Red or black.
+
+End goal for AI 
+
+mapChipColorToBits(aiChipColor) == checkWin(x, y, curChip);
+
+int processData()
