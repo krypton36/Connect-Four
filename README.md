@@ -20,26 +20,26 @@ open terminal and cd to this directory.
 ### General program notes:
 ##### IMPORTANT: The Computer portion of the game has not been implemented and will cause bugs in the program when clicked.
 
--All code should use 4 space indents and never use tabs.
--Every file should start with a comment that contains the file name.
--Every function made should have a comment before it with file name a a spot for revision history.
--All functions should/files should be cammel case. aka start with lowercase and no underscores.
--All defines should be all caps with underscores.
--All enums will have the suffix Enum in the name. ex: colorEnum
--All structs with have the suffix Struct in the name. ex: rgbStruct
--All code blocks should have the { on the same line as the instruction.
-  ex:
+-All code should use 4 space indents and never use tabs.<br />
+-Every file should start with a comment that contains the file name.<br />
+-Every function made should have a comment before it with file name a a spot for revision history.<br />
+-All functions should/files should be cammel case. aka start with lowercase and no underscores.<br />
+-All defines should be all caps with underscores.<br />
+-All enums will have the suffix Enum in the name. ex: colorEnum<br />
+-All structs with have the suffix Struct in the name. ex: rgbStruct<br />
+-All code blocks should have the { on the same line as the instruction.<br />
+### Example:
   ###### This is valid
-  if (1) {
+    if (1) { <br />
 
-  ###### this is  not valid
-  if (1)
-  {
+###### This is  not valid
+  if (1)<br />
+  {<br />
 #### The format of the .h files should be as follows
-\#ifndef
-\#include
-\#define
-enum\/struct
-extern
-function prototypes
+\#ifndef<br />
+\#include<br />
+\#define<br />
+enum\/struct<br />
+extern<br />
+function prototypes<br />
 
