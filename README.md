@@ -1,16 +1,17 @@
 # Connect Four in C
 README
 
-Revision History:<br />
+README Revision History:<br />
 6/12/2015 (JB): initial version<br />
 6/13/2015 (JB): added .h format<br />
 11/07/2015 (JV): Added Compile and Run.<br />
+07/31/2016 (JV): README Github format.<br />
 <br />
 (JV) = Joshua Villasenor<br />
 (JB) = Jason Berneberg<br />
 <br />
 ### Compile and Run:
--Dowload and install x11 from http:\/\/www.xquartz.org.<br />
+-Dowload and install x11 from http://www.xquartz.org.<br />
 -Log out and back in.<br />
 -Open command prompt and cd to the Connect Four directory.<br />
 -Type:<br />
