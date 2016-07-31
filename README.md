@@ -1,21 +1,21 @@
 # Connect Four in C
 README
 
-Revision History:
-6/12/2015 (JB): initial version
-6/13/2015 (JB): added .h format
-11/07/2015 (JV): Added Compile and Run.
-
-(JV) = Joshua Villasenor
-(JB) = Jason Berneberg
-
+Revision History:<br />
+6/12/2015 (JB): initial version<br />
+6/13/2015 (JB): added .h format<br />
+11/07/2015 (JV): Added Compile and Run.<br />
+<br />
+(JV) = Joshua Villasenor<br />
+(JB) = Jason Berneberg<br />
+<br />
 ### Compile and Run:
-Dowload and install x11 from http:\/\/www.xquartz.org.
-Log out and back in.
-In this directory type
-open terminal and cd to this directory.
-% make
-% .\/ConnectFour
+-Dowload and install x11 from http:\/\/www.xquartz.org.<br />
+-Log out and back in.<br />
+-Open command prompt and cd to the Connect Four directory.<br />
+-Type:<br />
+% make<br />
+% .\/ConnectFour<br />
 
 ### General program notes:
 ##### IMPORTANT: The Computer portion of the game has not been implemented and will cause bugs in the program when clicked.
