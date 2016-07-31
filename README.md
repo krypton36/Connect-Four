@@ -1,5 +1,5 @@
 # Connect Four in C
-README
+![alt tag]('https://github.com/krypton36/Connect-Four/blob/master/README_IMGS/ConnectFour.png')
 
 README Revision History:<br />
 6/12/2015 (JB): initial version<br />
