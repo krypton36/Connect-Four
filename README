@@ -1,4 +1,5 @@
-readme.txt
+# Connect Four in C
+README
 
 Revision History:
 6/12/2015 (JB): initial version
@@ -9,7 +10,7 @@ Revision History:
 (JB) = Jason Berneberg
 
 Compile and Run:
-dowload and install x11 from http://www.xquartz.org. 
+dowload and install x11 from http://www.xquartz.org.
 Log out and back in.
 In this directory type
 open terminal and cd to this directory.
@@ -18,7 +19,7 @@ open terminal and cd to this directory.
 
 General program notes:
 IMPORTANT: The Computer portion of the game has not been implemented and will cause
-bugs in the program when clicked. 
+bugs in the program when clicked.
 
 -All code should use 4 space indents and never use tabs.
 -Every file should start with a comment that contains the file name.
@@ -30,11 +31,11 @@ bugs in the program when clicked.
 -All code blocks should have the { on the same line as the instruction.
   ex:
   // this is valid
-  if (1) { 
+  if (1) {
 
   // this is  not valid
-  if (1) 
-  { 
+  if (1)
+  {
 -The format of the .h files should be as follows
 #ifndef
 #include
