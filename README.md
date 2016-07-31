@@ -29,16 +29,16 @@ open terminal and cd to this directory.
 -All structs with have the suffix Struct in the name. ex: rgbStruct
 -All code blocks should have the { on the same line as the instruction.
   ex:
-  // this is valid
+  ###### This is valid
   if (1) {
 
-  // this is  not valid
+  ###### this is  not valid
   if (1)
   {
 #### The format of the .h files should be as follows
-\#ifndef
-\#include
-\#define
+\#ifndef\n
+\#include\n
+\#define\n
 enum/struct
 extern
 function prototypes
