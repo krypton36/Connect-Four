@@ -10,12 +10,12 @@ Revision History:
 (JB) = Jason Berneberg
 
 ### Compile and Run:
-dowload and install x11 from http://www.xquartz.org.
+Dowload and install x11 from http:\/\/www.xquartz.org.
 Log out and back in.
 In this directory type
 open terminal and cd to this directory.
 % make
-% ./ConnectFour
+% .\/ConnectFour
 
 ### General program notes:
 ##### IMPORTANT: The Computer portion of the game has not been implemented and will cause bugs in the program when clicked.
@@ -36,10 +36,10 @@ open terminal and cd to this directory.
   if (1)
   {
 #### The format of the .h files should be as follows
-\#ifndef\n
-\#include\n
-\#define\n
-enum/struct
+\#ifndef
+\#include
+\#define
+enum\/struct
 extern
 function prototypes
 
