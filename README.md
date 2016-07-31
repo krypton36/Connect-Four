@@ -30,11 +30,13 @@ open terminal and cd to this directory.
 -All code blocks should have the { on the same line as the instruction.<br />
 ### Example:
 ##### This is valid
-    if (1) { <br />
+    if (1) {
+    }
 
 ##### This is  not valid
-  if (1)<br />
-  {<br />
+    if (1)
+    {
+    }
 #### The format of the .h files should be as follows
 \#ifndef<br />
 \#include<br />
