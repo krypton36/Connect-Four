@@ -29,10 +29,10 @@ open terminal and cd to this directory.
 -All structs with have the suffix Struct in the name. ex: rgbStruct<br />
 -All code blocks should have the { on the same line as the instruction.<br />
 ### Example:
-  ###### This is valid
+##### This is valid
     if (1) { <br />
 
-###### This is  not valid
+##### This is  not valid
   if (1)<br />
   {<br />
 #### The format of the .h files should be as follows
