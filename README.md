@@ -9,7 +9,7 @@ Revision History:
 (JV) = Joshua Villasenor
 (JB) = Jason Berneberg
 
-Compile and Run:
+### Compile and Run:
 dowload and install x11 from http://www.xquartz.org.
 Log out and back in.
 In this directory type
@@ -17,9 +17,8 @@ open terminal and cd to this directory.
 % make
 % ./ConnectFour
 
-General program notes:
-IMPORTANT: The Computer portion of the game has not been implemented and will cause
-bugs in the program when clicked.
+### General program notes:
+##### IMPORTANT: The Computer portion of the game has not been implemented and will cause bugs in the program when clicked.
 
 -All code should use 4 space indents and never use tabs.
 -Every file should start with a comment that contains the file name.
@@ -36,10 +35,10 @@ bugs in the program when clicked.
   // this is  not valid
   if (1)
   {
--The format of the .h files should be as follows
-#ifndef
-#include
-#define
+#### The format of the .h files should be as follows
+\#ifndef
+\#include
+\#define
 enum/struct
 extern
 function prototypes
